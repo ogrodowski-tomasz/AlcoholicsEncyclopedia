@@ -1,0 +1,42 @@
+
+Search by ingredient
+
+www.thecocktaildb.com/api/json/v1/1/filter.php?i=Gin
+
+
+
+Lookup full cocktail details by id
+
+www.thecocktaildb.com/api/json/v1/1/lookup.php?i=11007
+
+
+
+Search ingredient by name
+
+www.thecocktaildb.com/api/json/v1/1/search.php?i=vodka
+
+
+
+List the categories, glasses, ingredients or alcoholic filters
+
+www.thecocktaildb.com/api/json/v1/1/list.php?c=list
+www.thecocktaildb.com/api/json/v1/1/list.php?g=list
+www.thecocktaildb.com/api/json/v1/1/list.php?i=list
+www.thecocktaildb.com/api/json/v1/1/list.php?a=list
+
+
+
+Ingredient Thumbnails
+
+www.thecocktaildb.com/images/ingredients/gin-Small.png
+(100x100 pixels)
+www.thecocktaildb.com/images/ingredients/gin-Medium.png
+(350x350 pixels)
+www.thecocktaildb.com/images/ingredients/gin.png
+(700x700 pixels)
+
+
+
+Add /preview to the end of the cocktail image URL
+
+/images/media/drink/vrwquq1478252802.jpg/preview (100x100 pixels)
